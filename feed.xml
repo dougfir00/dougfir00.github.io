@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>MISC Project Archives</title>
+    <link href="https://github.com/dougfir00/dougfir00.github.io/feed.xml" rel="self" />
+    <link href="https://github.com/dougfir00/dougfir00.github.io" />
+    <updated>2025-05-29T23:05:14-04:00</updated>
+    <author>
+        <name>dougfir00</name>
+    </author>
+    <id>https://github.com/dougfir00/dougfir00.github.io</id>
+
+    <entry>
+        <title>About</title>
+        <author>
+            <name>dougfir00</name>
+        </author>
+        <link href="https://github.com/dougfir00/dougfir00.github.io/about.html"/>
+        <id>https://github.com/dougfir00/dougfir00.github.io/about.html</id>
+
+        <updated>2025-05-29T00:02:39-04:00</updated>
+            <summary>
+                <![CDATA[
+                    This website exists to document my projects and share my work with others, but it's currently a work in progress. I'll update things if I ever get around to it.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This website exists to document my projects and share my work with others, but it's currently a work in progress.  I'll update things if I ever get around to it.  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
