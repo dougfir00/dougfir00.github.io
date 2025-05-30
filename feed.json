@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "MISC Project Archives",
     "description": "",
-    "home_page_url": "https://github.com/dougfir00/dougfir00.github.io",
-    "feed_url": "https://github.com/dougfir00/dougfir00.github.io/feed.json",
+    "home_page_url": "https://dougfir00.github.io",
+    "feed_url": "https://dougfir00.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "dougfir00"
     },
     "items": [
         {
-            "id": "https://github.com/dougfir00/dougfir00.github.io/about.html",
-            "url": "https://github.com/dougfir00/dougfir00.github.io/about.html",
+            "id": "https://dougfir00.github.io/about.html",
+            "url": "https://dougfir00.github.io/about.html",
             "title": "About",
             "summary": "This website exists to document my projects and share my work with others, but it's currently a work in progress. I'll update things if I ever get around to it.",
             "content_html": "<p>This website exists to document my projects and share my work with others, but it's currently a work in progress.  I'll update things if I ever get around to it.  </p>",

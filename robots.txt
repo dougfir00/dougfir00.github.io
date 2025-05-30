@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://github.com/dougfir00/dougfir00.github.io/sitemap.xml
+Sitemap: https://dougfir00.github.io/sitemap.xml
