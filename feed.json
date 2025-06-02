@@ -9,19 +9,5 @@
         "name": "dougfir00"
     },
     "items": [
-        {
-            "id": "https://dougfir00.github.io/about.html",
-            "url": "https://dougfir00.github.io/about.html",
-            "title": "About",
-            "summary": "This website exists to document my projects and share my work with others, but it's currently a work in progress. I'll update things if I ever get around to it.",
-            "content_html": "<p>This website exists to document my projects and share my work with others, but it's currently a work in progress.  I'll update things if I ever get around to it.  </p>",
-            "author": {
-                "name": "dougfir00"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-05-29T00:02:39-04:00",
-            "date_modified": "2025-05-29T23:05:14-04:00"
-        }
     ]
 }
