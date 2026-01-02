@@ -1,12 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>MISC Project Archives</title>
-    <link href="https://dougfir00.github.io/feed.xml" rel="self" />
-    <link href="https://dougfir00.github.io" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <link href="https://dougfir00.com/feed.xml" rel="self" />
+    <link href="https://dougfir00.com" />
+    <updated>2025-09-07T22:30:40-04:00</updated>
     <author>
         <name>dougfir00</name>
     </author>
-    <id>https://dougfir00.github.io</id>
+    <id>https://dougfir00.com</id>
 
+    <entry>
+        <title>3D Printer Hotend Upgrade</title>
+        <author>
+            <name>dougfir00</name>
+        </author>
+        <link href="https://dougfir00.com/3d-printer-hotend-upgrade/"/>
+        <id>https://dougfir00.com/3d-printer-hotend-upgrade/</id>
+
+        <updated>2025-09-07T22:30:40-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    This page documents the change in achievable volumetric flowrate (VFR) caused by upgrading a Longer LK5 Pro to a knockoff all-metal hotend+CHT nozzle from aliexpress. Using the CNCKitchen/iFallUpHill benchmark tool at https://hotend-flow-tester.netlify.app/, both the old and new hotends were evaluated for volumetric flow rate. Testing&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This page documents the change in achievable volumetric flowrate (VFR) caused by upgrading a Longer LK5 Pro to a knockoff all-metal hotend+CHT nozzle from aliexpress.  Using the CNCKitchen/iFallUpHill benchmark tool at <a href="https://hotend-flow-tester.netlify.app/" rel="nofollow">https://hotend-flow-tester.netlify.app/</a>, both the old and new hotends were evaluated for volumetric flow rate.</p>
+<p>Testing the hotends with Elegoo Highspeed PLA yielded the following results:</p>
+<figure class="post__image"><img loading="lazy"  src="https://dougfir00.com/media/posts/5/VFR-PLA.png" alt="" width="605" height="340" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dougfir00.com/media/posts/5/responsive/VFR-PLA-xs.png 640w ,https://dougfir00.com/media/posts/5/responsive/VFR-PLA-sm.png 768w ,https://dougfir00.com/media/posts/5/responsive/VFR-PLA-md.png 1024w ,https://dougfir00.com/media/posts/5/responsive/VFR-PLA-lg.png 1366w ,https://dougfir00.com/media/posts/5/responsive/VFR-PLA-xl.png 1600w ,https://dougfir00.com/media/posts/5/responsive/VFR-PLA-2xl.png 1920w"></figure>
+<p>The new hotend + CHT nozzle results in a modest increase in allowable max VFR of around ~20-30% depending on hotend temperature.  This is a somewhat lower improvement than expected, and could be due to the small meltzone of the hotend or the bowden tube setup of the LK5 pro.  The aftermarket all-metal hotend upgrade kit uses the Bambu hotend nozzle format, and this limits the total length available in the meltzone for the filament to come up to temperature.  The bowden tube setup limits the pressure that forces plastic </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
