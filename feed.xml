@@ -3,14 +3,14 @@
     <title>MISC Project Archives</title>
     <link href="https://dougfir00.com/feed.xml" rel="self" />
     <link href="https://dougfir00.com" />
-    <updated>2026-03-01T22:08:25-05:00</updated>
+    <updated>2026-03-02T23:10:00-05:00</updated>
     <author>
         <name>dougfir00</name>
     </author>
     <id>https://dougfir00.com</id>
 
     <entry>
-        <title>Local LLM Inference Server</title>
+        <title>Benchmarking a Local LLM Inference Server</title>
         <author>
             <name>dougfir00</name>
         </author>
@@ -98,7 +98,7 @@
         </content>
     </entry>
     <entry>
-        <title>3D Printer Hotend Upgrade</title>
+        <title>Testing a Budget 3D Printer Hotend Upgrade</title>
         <author>
             <name>dougfir00</name>
         </author>
@@ -125,7 +125,7 @@
         </content>
     </entry>
     <entry>
-        <title>Water Cooling System for QSMotor 17in 8kW Hub Motor</title>
+        <title>Building a Water Cooling System for a QSMotor 17in 8kW Hub Motor</title>
         <author>
             <name>dougfir00</name>
         </author>
