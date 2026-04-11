@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://dougfir00.com/electric-motorcycle-conversion/",
+            "url": "https://dougfir00.com/electric-motorcycle-conversion/",
+            "title": "Electric Motorcycle Conversion",
+            "summary": "Documenting the conversion of a 1982 Kawasaki Kz440 to electric propulsion, coming soon!",
+            "content_html": "<p>Documenting the conversion of a 1982 Kawasaki Kz440 to electric propulsion, coming soon!</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://dougfir00.com/media/posts/7/motorcycle.jpg\" alt=\"\" width=\"2460\" height=\"2022\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://dougfir00.com/media/posts/7/responsive/motorcycle-xs.jpg 300w ,https://dougfir00.com/media/posts/7/responsive/motorcycle-sm.jpg 480w ,https://dougfir00.com/media/posts/7/responsive/motorcycle-md.jpg 768w\"></figure>\n<p> </p>",
+            "author": {
+                "name": "dougfir00"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-10T21:40:04-04:00",
+            "date_modified": "2026-04-10T21:40:04-04:00"
+        },
+        {
             "id": "https://dougfir00.com/local-llm-inference-server/",
             "url": "https://dougfir00.com/local-llm-inference-server/",
             "title": "Benchmarking a Local LLM Inference Server",

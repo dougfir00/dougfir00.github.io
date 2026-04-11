@@ -3,12 +3,34 @@
     <title>MISC Project Archives</title>
     <link href="https://dougfir00.com/feed.xml" rel="self" />
     <link href="https://dougfir00.com" />
-    <updated>2026-03-02T23:10:00-05:00</updated>
+    <updated>2026-04-10T21:40:04-04:00</updated>
     <author>
         <name>dougfir00</name>
     </author>
     <id>https://dougfir00.com</id>
 
+    <entry>
+        <title>Electric Motorcycle Conversion</title>
+        <author>
+            <name>dougfir00</name>
+        </author>
+        <link href="https://dougfir00.com/electric-motorcycle-conversion/"/>
+        <id>https://dougfir00.com/electric-motorcycle-conversion/</id>
+
+        <updated>2026-04-10T21:40:04-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Documenting the conversion of a 1982 Kawasaki Kz440 to electric propulsion, coming soon!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Documenting the conversion of a 1982 Kawasaki Kz440 to electric propulsion, coming soon!</p>
+<figure class="post__image"><img loading="lazy"  src="https://dougfir00.com/media/posts/7/motorcycle.jpg" alt="" width="2460" height="2022" sizes="(max-width: 48em) 100vw, 768px" srcset="https://dougfir00.com/media/posts/7/responsive/motorcycle-xs.jpg 300w ,https://dougfir00.com/media/posts/7/responsive/motorcycle-sm.jpg 480w ,https://dougfir00.com/media/posts/7/responsive/motorcycle-md.jpg 768w"></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Benchmarking a Local LLM Inference Server</title>
         <author>
